@@ -14,3 +14,10 @@ Crear ....
 
 # Objetivos Específicos
 Lista de Objetivos
+
+## Requerimientos funcionales
+listado de requerimientos
+
+## No funcionales 
+
+## Cronograma de actividades 
